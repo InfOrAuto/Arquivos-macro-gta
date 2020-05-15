@@ -1,0 +1,10 @@
+setkeydelay, 100, 100
+'::
+	toggle:=!toggle
+	While toggle{
+	  Send e
+          Send e
+          Send e
+	  Sleep 11500
+	}
+Return

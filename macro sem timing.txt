@@ -1,0 +1,9 @@
+setkeydelay, 100, 100
+'::
+send, e
+
+send, e
+
+send, e
+
+return
